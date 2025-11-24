@@ -1,1 +1,1 @@
-A responsive and visually apealing spotify clone built using HTML, CSS, JavaScript. This project replicates the modern spotify UI and showcases core frontend skills such as layout design, event handling , and audio playback functionality
+A responsive and visually apealing spotify clone built using HTML, CSS, JavaScript. This project replicates the modern spotify UI and showcases core frontend skills such as layout design, event handling , and audio playback functionality .
